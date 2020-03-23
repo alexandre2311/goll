@@ -1,0 +1,1 @@
+{bot:"Nasaki",player:"Nasaki",World:"pt67"}
